@@ -1,0 +1,14 @@
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\bin\Debug\net10.0\FlujoDeControl2.exe
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\bin\Debug\net10.0\FlujoDeControl2.deps.json
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\bin\Debug\net10.0\FlujoDeControl2.runtimeconfig.json
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\bin\Debug\net10.0\FlujoDeControl2.dll
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\bin\Debug\net10.0\FlujoDeControl2.pdb
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.AssemblyInfoInputs.cache
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.AssemblyInfo.cs
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.csproj.CoreCompileInputs.cache
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.dll
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\refint\FlujoDeControl2.dll
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.pdb
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\FlujoDeControl2.genruntimeconfig.cache
+C:\Users\computer\Downloads\C#\FlujoDeControl2\FlujoDeControl2\obj\Debug\net10.0\ref\FlujoDeControl2.dll
