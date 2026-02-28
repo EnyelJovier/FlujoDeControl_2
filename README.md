@@ -1,6 +1,6 @@
 # Sistema de Gestión de Calificaciones 📊
 
-Este programa es una herramienta sencilla desarrollada en [Insertar Lenguaje, ej: Python/C++] que permite procesar las calificaciones de múltiples estudiantes, calcular sus promedios y determinar su estatus académico (Aprobado/Reprobado) de forma automatizada mediante el uso de bucles.
+Este programa es una herramienta sencilla desarrollada en el lenguaje C# que permite procesar las calificaciones de múltiples estudiantes, calcular sus promedios y determinar su estatus académico (Aprobado/Reprobado) de forma automatizada mediante el uso de bucles.
 
 ### 📝 Descripción
 
